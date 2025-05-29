@@ -28,12 +28,6 @@ Execute the Python script:
 
 python first_apicall.py
 
-first-openai-api-call/
-│
-├── .env                 # Stores your Gemini API key
-├── first_apicall.py     # Main script to run the assistant
-├── README.md            # Project documentation
-
 Example
 Enter your question: what is national animal of india
 
