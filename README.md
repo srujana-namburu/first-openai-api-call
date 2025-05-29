@@ -26,7 +26,7 @@ GEMINI_API_KEY=your_google_generative_ai_key_here
 How to Run
 Execute the Python script:
 
-python first_apicall.py
+`python first_apicall.py`
 
 Example
 Enter your question: what is national animal of india
@@ -35,6 +35,7 @@ Enter your question: what is national animal of india
 The national animal of India is the Bengal tiger.
 
 📊 Token Usage:
+
 Prompt Tokens: 18
 Response Tokens: 11
 Total Tokens: 29
